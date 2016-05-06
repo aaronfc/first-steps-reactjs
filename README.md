@@ -8,7 +8,7 @@ This is a repository I will use to track my first steps on ReactJS.
 - [ ] Iterate over the Likes example and evolve it into a *likeable* comments list.
 - [ ] Try to make it talk to external API ([Zen quotes](https://api.github.com/zen) from Github might be a good start).
 - [ ] At some point try to include Redux to the party.
-- Next? Who knows...
+- [ ] Next? Who knows...
 
 ## Diary
 ### 1# Following [basic tutorial](https://www.codementor.io/reactjs/tutorial/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack) suggested by [@jmgaya](https://www.github.com/jmgaya)
