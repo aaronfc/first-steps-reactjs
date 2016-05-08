@@ -1,13 +1,14 @@
 import React from 'react';
 import {render} from 'react-dom';
-import AwesomeComponent from './AwesomeComponent.jsx'
+import HeaderComponent from './HeaderComponent.jsx'
+import CommentsListComponent from './CommentsListComponent.jsx'
 
 class App extends React.Component {
   render () {
     return (
       <div>
-        <p>Hello React!</p>
-        <AwesomeComponent />
+        <HeaderComponent />
+        <CommentsListComponent />
       </div>
     );
   }
